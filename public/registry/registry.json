@@ -1,0 +1,27 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "flag",
+  "homepage": "https://github.com/vorhdam/flags",
+  "items": [
+    {
+      "name": "flag",
+      "type": "registry:block",
+      "title": "Flag",
+      "description": "A simple flag component that renders country flag SVGs by their code.",
+      "files": [
+        {
+          "path": "src/registry/new-york/flags/components/flag.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "src/registry/new-york/flags/lib/flags.tsx",
+          "type": "registry:lib"
+        },
+        {
+          "path": "src/registry/new-york/flags/lib/constants.ts",
+          "type": "registry:lib"
+        }
+      ]
+    }
+  ]
+}
