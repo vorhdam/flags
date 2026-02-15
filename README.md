@@ -1,13 +1,13 @@
 # Shadcn Flag Registry
 
-This registry enables you to use fast and maintained flags from a single React component. The flags were adopted from [twemoji](https://github.com/twitter/twemoji) which currently is unmaintained. They have been updated according to the latest state of the [United Nations Member State List](https://www.un.org/en/about-us/member-states). It also includes some territory ones. giving you a total of 252 flags.
+This registry enables you to use fast and maintained flags from a single React component. The flags were adopted from [twemoji](https://github.com/twitter/twemoji) which currently is unmaintained. They have been updated according to the latest state of the [United Nations Member State List](https://www.un.org/en/about-us/member-states). It also includes some territory ones, giving you a total of 252 flags.
 
 <img src="./assets/banner.png">
 
 ### Installation
 
 - `bunx --bun shadcn@latest init`
-- `bunx --bun shadcn@latest add ???` or `bunx --bun shadcn@latest add ???`
+- `bunx --bun shadcn@latest add https://shadcn-flags.vercel.app/r/registry.json`
 
 ### Usage
 
