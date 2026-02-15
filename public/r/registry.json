@@ -10,8 +10,8 @@
       "description": "A simple flag component that renders country flag SVGs by their code.",
       "files": [
         {
-          "path": "src/registry/new-york/flags/components/flag.tsx",
-          "type": "registry:component"
+          "path": "src/registry/new-york/flags/ui/flag.tsx",
+          "type": "registry:ui"
         },
         {
           "path": "src/registry/new-york/flags/lib/flags.tsx",

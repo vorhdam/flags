@@ -1,4 +1,4 @@
-import { Flag } from "@/registry/new-york/flags/components/flag";
+import { Flag } from "@/registry/new-york/flags/ui/flag";
 import { flagList } from "@/registry/new-york/flags/lib/constants";
 import Link from "next/link";
 
