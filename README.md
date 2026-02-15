@@ -7,7 +7,7 @@ This registry enables you to use fast and maintained flags from a single React c
 ### Installation
 
 - `bunx --bun shadcn@latest init`
-- `bunx --bun shadcn@latest add https://shadcn-flags.vercel.app/r/registry.json`
+- `bunx --bun shadcn@latest add https://shadcn-flags.vercel.app/r/flag.json`
 
 ### Usage
 
