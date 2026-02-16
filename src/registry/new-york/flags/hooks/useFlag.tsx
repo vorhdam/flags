@@ -1,5 +1,5 @@
 import React from "react";
-import { FlagCode } from "@/lib/flags";
+import { FlagCode } from "../lib/flags";
 
 const flagMap: Record<FlagCode, React.FC<React.SVGProps<SVGSVGElement>>> = {
   AC: (props) => (

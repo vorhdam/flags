@@ -21,7 +21,24 @@
           "path": "src/registry/new-york/flags/hooks/useFlag.tsx",
           "type": "registry:hook"
         }
-      ]
+      ],
+      "css": {
+        "::-webkit-scrollbar": {
+          "width: 1.2rem;": {}
+        },
+        "::-webkit-scrollbar-thumb": {
+          "border: 0.4rem solid rgba(0, 0, 0, 0);": {},
+          "background-clip: padding-box;": {},
+          "background-color: var(--border);": {},
+          "border-radius: var(--radius);": {}
+        },
+        "::-webkit-scrollbar-thumb:hover": {
+          "border: 0.4rem solid rgba(0, 0, 0, 0);": {},
+          "background-clip: padding-box;": {},
+          "background-color: var(--accent);": {},
+          "border-radius: var(--radius);": {}
+        }
+      }
     }
   ]
 }
