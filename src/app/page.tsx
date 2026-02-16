@@ -1,5 +1,5 @@
 import { Flag } from "@/registry/new-york/flags/ui/flag";
-import { flagList } from "@/registry/new-york/flags/lib/constants";
+import { flagList } from "@/registry/new-york/flags/lib/flags";
 import Link from "next/link";
 
 export default function Home() {

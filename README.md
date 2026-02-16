@@ -11,9 +11,9 @@ This registry enables you to use fast and maintained flags from a single React c
 
 ### Usage
 
-It has a `code` prop which takes a country's lowercase [ISO-3166-2 Code](https://en.wikipedia.org/wiki/ISO_3166-2#Current_codes) and it also takes React SVG Component Props (width, height, etc.) For example:
+It has a `code` prop which takes a country's uppercase [ISO-3166-2 Code](https://en.wikipedia.org/wiki/ISO_3166-2#Current_codes) and it also takes React SVG Component Props (width, height, etc.) For example:
 
-If you want to render Hungary's flag: `<Flag code={"hu"} .../>` it will result in something like this:
+If you want to render Hungary's flag: `<Flag code={"HU"} .../>` it will result in something like this:
 
 <p align="center">
 <img src="/assets/demo.png" height="50px" width="50px"/>

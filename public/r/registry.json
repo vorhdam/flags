@@ -14,12 +14,12 @@
           "type": "registry:ui"
         },
         {
-          "path": "src/registry/new-york/flags/lib/flags.tsx",
+          "path": "src/registry/new-york/flags/lib/flags.ts",
           "type": "registry:lib"
         },
         {
-          "path": "src/registry/new-york/flags/lib/constants.ts",
-          "type": "registry:lib"
+          "path": "src/registry/new-york/flags/hooks/useFlag.tsx",
+          "type": "registry:hook"
         }
       ]
     }
