@@ -21,9 +21,9 @@ If you want to render Hungary's flag: `<Flag code={"HU"} .../>` it will result i
 
 ### Flexibility
 
-If you ever feel like you need to modify a flag to adapt to the latest political changes or for just fun you can do that by editing the `/lib/flags.tsx` file (if you are using the default config) which stores all the flags as svgs.
+If you ever feel like you need to modify a flag to adapt to the latest political changes or for just fun you can do that by editing the `/hooks/useFlag.tsx` file (if you are using the default config) which stores all the flags as svgs.
 
-You can also find an **array** _(containing all flag codes lowercase, in alphabetic order)_ and a **type** _(for typesafety)_: `/lib/constants.ts`
+You can also find an **array** _(containing all flag codes lowercase, in alphabetic order)_ and a **type** _(for typesafety)_: `/lib/flags.ts`
 
 ### SVG Files
 
